@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "82E77F45-B1F3-46CF-8305-F2AFF6D04390",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Soundboard.xcodeproj",
+        "identifier" : "E1274DE02AC5FBCC00AD64C1",
+        "name" : "SoundboardTests"
+      }
+    }
+  ],
+  "version" : 1
+}
